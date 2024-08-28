@@ -1,0 +1,7 @@
+Chat Application Realtime
+
+- Ngôn ngữ: Nodejs
+- Công nghệ: Socket IO, JWT, Express, Nodejs, MongoDB.
+- Công nghệ front-end: ReactJS, Socket IO - client, Tailwind.
+- Deloy: Github, Git, 
+- Testing and Validation: Jest/Mocha, Postman.

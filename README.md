@@ -57,6 +57,10 @@ The **Simple Chat Application** is a real-time chat application built with Node.
 4.  **Set up environment variables:**
 
 Create a .env file in the backend directory and add your MongoDB connection string, JWT secret, and other necessary environment variables.
+<<<<<<< HEAD
+=======
+
+>>>>>>> a0198aff4ecac404d15d60e2d1b5d6cd44748e6a
 5. **Run the application:**
 
    - **Backend:**
